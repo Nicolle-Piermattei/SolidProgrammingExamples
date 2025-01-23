@@ -12,7 +12,7 @@ Console.WriteLine("Hello, World!");
 //and more testing efforts will be required
 
 
-//Examples of classes violating SRP
+//Example of class violating SRP
 namespace ViolatingSRP
 {
     public class Employee
@@ -44,7 +44,7 @@ namespace ViolatingSRP
     }
 }
 
-//Examples of classes following SRP
+//Example of class following SRP
 //each class has a single kind of responsibilities
 namespace FollowingSRP
 {
